@@ -1,9 +1,12 @@
 # Ignore the .venv folder and all of its contents
 .venv/
-2019_stress_detection_dataset/
+datasets/2019_stress_detection_dataset/
 
 # csv files
 *.csv
+
+# pdf files
+.pdf
 
 # zip folders
 *.zip
