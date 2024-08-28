@@ -5,8 +5,6 @@ datasets/2019_stress_detection_dataset/
 # csv files
 *.csv
 
-# pdf files
-.pdf
 
 # zip folders
 *.zip
